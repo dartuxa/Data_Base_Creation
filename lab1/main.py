@@ -18,8 +18,9 @@ def main():
     `---'    `---`   `'-..-'    `--------`  `._____.'     '-----'    '--'      '--'   `'-..-'          /_______.'  '.(_,_).'    `._____.'  `--'   `'-'   
                                                                                                                                                      """
     
+    print(art)
+
     while True:
-        print(art)
         print("\n---* SYSTEM OF STORES LOCATIONS *---")  
         print("1. Add store\n2. Show all\n3. Update\n4. Delete\n5. Exit")
         choice = input("Choose an action: ")
