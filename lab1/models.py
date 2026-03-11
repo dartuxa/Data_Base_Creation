@@ -7,3 +7,4 @@ class StoreLocation:
     address: str
     city: str
     is_open: bool = True
+    ratinhg: float
